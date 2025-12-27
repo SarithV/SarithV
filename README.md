@@ -51,13 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SarithV/SarithV/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 🧑‍💻 GitHub: [@SarithV](https://github.com/SarithV)
 - 🤖 Telegram Bots & Automation
@@ -68,4 +61,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer" />
 </p>
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *If you like my work, consider giving a star to my repositories!*!*
