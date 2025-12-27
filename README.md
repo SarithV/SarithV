@@ -29,36 +29,43 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarithvimukthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SarithV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarithvimukthi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarithV&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarithvimukthi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarithvimukthi&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SarithV&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SarithV/SarithV/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 🧑‍💻 GitHub: **@sarithvimukthi**
+- 🧑‍💻 GitHub: [@SarithV](https://github.com/SarithV)
 - 🤖 Telegram Bots & Automation
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer" />
 </p>
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
